@@ -1,6 +1,6 @@
 # 02-http-cluster
 
-This example demostrates how to benchmark a simple http server that uses the cluster module
+This example demonstrates how to benchmark a simple http server that uses the cluster module
 
 ## Dependencies
 

@@ -1,6 +1,6 @@
 # 01-webpack-intro
 
-This example demostrates how to use Webpack and how to share a simple module between the browser and the server
+This example demonstrates how to use Webpack and how to share a simple module between the browser and the server
 
 ## Dependencies
 

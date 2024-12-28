@@ -1,6 +1,6 @@
 # 07-peer-to-peer-load-balancing
 
-This example demostrates how to implement peer-to-peer load balancing
+This example demonstrates how to implement peer-to-peer load balancing
 
 
 ## Dependencies

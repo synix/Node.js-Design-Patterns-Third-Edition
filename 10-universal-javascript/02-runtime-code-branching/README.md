@@ -1,6 +1,6 @@
 # 02-runtime-code-branching
 
-This example demostrates how implement runtime code branching in a module shared by the browser and Node.js.
+This example demonstrates how implement runtime code branching in a module shared by the browser and Node.js.
 
 ## Dependencies
 

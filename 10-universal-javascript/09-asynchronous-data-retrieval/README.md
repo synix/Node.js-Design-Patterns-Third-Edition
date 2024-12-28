@@ -1,6 +1,6 @@
 # 09-asynchronous-data-retrieval
 
-This example demostrates how to move the data into a dedicated api server and fetch it asynchronously from the frontend.
+This example demonstrates how to move the data into a dedicated api server and fetch it asynchronously from the frontend.
 
 ## Dependencies
 

@@ -1,6 +1,6 @@
 # 04-module-swapping
 
-This example demostrates how to swap modules at build time with Webpack.
+This example demonstrates how to swap modules at build time with Webpack.
 
 ## Dependencies
 

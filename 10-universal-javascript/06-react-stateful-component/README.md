@@ -1,6 +1,6 @@
 # 06-react-stateful-component
 
-This example demostrates how to build a simple React hello world application.
+This example demonstrates how to build a simple React hello world application.
 
 ## Dependencies
 

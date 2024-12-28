@@ -1,6 +1,6 @@
 # 08-server-side-rendering
 
-This example demostrates how to evolve our frontend only app and add server side rendering.
+This example demonstrates how to evolve our frontend only app and add server side rendering.
 
 ## Dependencies
 

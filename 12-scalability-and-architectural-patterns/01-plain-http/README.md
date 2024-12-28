@@ -1,6 +1,6 @@
 # 01-plain-http
 
-This example demostrates how to benchmark a simple http server
+This example demonstrates how to benchmark a simple http server
 
 
 ## Dependencies

@@ -1,6 +1,6 @@
 # 06-http-dynamic-load-balancer
 
-This example demostrates how to implement a dynamic load balancer in Node.js using consul as a service discovery mechanism.
+This example demonstrates how to implement a dynamic load balancer in Node.js using consul as a service discovery mechanism.
 
 ## Dependencies
 

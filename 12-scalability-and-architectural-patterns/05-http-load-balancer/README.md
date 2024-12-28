@@ -1,6 +1,6 @@
 # 05-http-load-balancer
 
-This example demostrates how to run a set of Node.js servers behind a load balancer
+This example demonstrates how to run a set of Node.js servers behind a load balancer
 
 
 ## Dependencies

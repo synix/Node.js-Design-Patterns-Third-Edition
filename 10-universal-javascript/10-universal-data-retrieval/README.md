@@ -1,6 +1,6 @@
 # 10-universal-data-retrieval
 
-This example demostrates how to pre-load data asynchronously on the server when needed and how to share this data with the
+This example demonstrates how to pre-load data asynchronously on the server when needed and how to share this data with the
 frontend for the first page load.
 
 ## Dependencies

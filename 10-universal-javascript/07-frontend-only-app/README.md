@@ -1,6 +1,6 @@
 # 07-frontend-only-app
 
-This example demostrates how to build the frontend app for our Universal JavaScript application.
+This example demonstrates how to build the frontend app for our Universal JavaScript application.
 
 ## Dependencies
 

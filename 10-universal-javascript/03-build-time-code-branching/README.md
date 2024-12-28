@@ -1,6 +1,6 @@
 # 03-build-time-code-branching
 
-This example demostrates how implement build time code branching in a module shared by the browser and Node.js.
+This example demonstrates how implement build time code branching in a module shared by the browser and Node.js.
 
 ## Dependencies
 

@@ -13,6 +13,6 @@ class Hello extends react.Component { // ②
 }
 
 ReactDOM.render( // ⑤
-  h(Hello, { name: 'React' }),
+  h(Hello, { name: 'React!' }),
   document.getElementsByTagName('body')[0]
 )

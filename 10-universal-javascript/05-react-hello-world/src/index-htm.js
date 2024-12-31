@@ -13,6 +13,6 @@ class Hello extends react.Component {
 }
 
 ReactDOM.render(
-  html`<${Hello} name="React"/>`,
+  html`<${Hello} name="React Native"/>`,
   document.getElementsByTagName('body')[0]
 )

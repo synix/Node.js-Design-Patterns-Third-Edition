@@ -39,6 +39,7 @@ module.exports = {
     new webpack.ProgressPlugin(),
     new HtmlWebpackPlugin(),
     new webpack.DefinePlugin({
+      // See https://webpack.js.org/plugins/define-plugin/
       __BROWSER__: true
     })
   ],

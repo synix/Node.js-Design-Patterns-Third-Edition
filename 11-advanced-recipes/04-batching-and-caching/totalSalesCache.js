@@ -5,7 +5,7 @@ const cache = new Map()
 
 export function totalSales (product) {
   if (cache.has(product)) {
-    console.log('Cache hit')
+    console.log(`Cache hit for ${product}...`)
     return cache.get(product)
   }
 
@@ -13,6 +13,7 @@ export function totalSales (product) {
   cache.set(product, resultPromise)
   resultPromise.then(() => {
     setTimeout(() => {
+      console.log(`Cache delete for ${product}...`)
       cache.delete(product)
     }, CACHE_TTL)
   }, err => {
